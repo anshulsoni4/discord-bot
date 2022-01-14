@@ -1,3 +1,5 @@
+![GitHub Logo](/app.png)
+
 ## What's in this project?
 
 ← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
